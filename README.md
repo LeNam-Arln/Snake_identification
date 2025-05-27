@@ -15,7 +15,7 @@ Mô hình học sâu được sử dụng là EfficientNetB0 – một kiến tr
 ## Cách sử dụng
 Mô hình sau khi huấn luyện được lưu dưới định dạng .h5, có thể được sử dụng thông qua file app.py để nhận diện ảnh mới (Thay .h5 thành của bạn).
 
-##Kết Quả:
+## Kết Quả:
 ![image](https://github.com/user-attachments/assets/77739e73-3631-4a34-b657-b5edc49fff86)
 
 
